@@ -23,5 +23,5 @@ Thank you!
 
 I wish you a wonderful day.
 
-Kind regarts, 
+Kind regards, 
 Luuk Kessels.
