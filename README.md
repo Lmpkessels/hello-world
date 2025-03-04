@@ -3,7 +3,8 @@ This repository is for practicing the GitHub Flow.
 
 Hello, GitHub user!
 
-A little bit about myself.
+# A little bit about myself.
+
 My name is Luuk Kessels.
 
 Born in a little farmers town called Stramproy, 
@@ -20,7 +21,7 @@ and I am thankful for that,
 
 Thank you!
 
-Have a great day.
+I wish you a wonderful day.
 
 Kind regarts, 
 Luuk Kessels.
